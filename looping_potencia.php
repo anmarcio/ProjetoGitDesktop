@@ -8,7 +8,7 @@
     }
     return $resultado;    
  }
-
+ //Fazendo os testes 
  echo potencia(2, 5);
 
 ?>
