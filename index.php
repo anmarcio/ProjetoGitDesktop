@@ -14,6 +14,6 @@ foreach($notas_dos_alunos as $aluno) {
         $reprovados += 1; 
     }
 }
-
+//Fazendo teste para verificar status de atualização
 echo $aprovados . " Alunos Aprovados. <br> " . $reprovados . " Alunos Reprovados"; 
 ?>
